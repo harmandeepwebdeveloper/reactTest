@@ -1,0 +1,11 @@
+.parentDiv {
+  align-items: center;
+  height: 100vh;
+  display: flex; 
+  justify-Content: center;
+}
+
+.childDiv {
+  display: flex;
+  font-size: 100px;
+}
